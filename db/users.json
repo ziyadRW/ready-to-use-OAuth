@@ -1,0 +1,45 @@
+{
+  "mlook.xd12@gmail.com": {
+    "username": "mlook.xd12@gmail.com",
+    "password": "$2b$10$k5PsvUepXXZ4S/CK6shhROnlt4TJpvIyoqOqTZ2kFUkXG/EnCRGde"
+  },
+  "mlok.xd12@gmail.com": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYICkBugLYd80L5jlVGiQnRc9SD0fanP8ryp_dX-R05xiEIlggUMvDhJMX6lJU1nmjYFDYzwWiai7qfPNABvneLesETYA",
+        "credentialID": "Mw_JVoWrflkoWN6ox76IQe_cCo0xA9wKFvdRDEjyWIA",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "bWxvay54ZDEyQGdtYWlsLmNvbQ",
+    "userName": "mlok.xd12@gmail.com"
+  },
+  "mlook.": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIFCkCmNIbnw7Gv0Av6vjbSOd8v_hU5IgRYEQoUk4FZYjIlggeclTc-TmY6tCIxB7nKFvcwM1ICJHYP66XzonsPhvNNk",
+        "credentialID": "8StV2xQerr7uCmvY5IQ8vlsVnSs3M4E0pk-4v2nUJw0",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "bWxvb2su",
+    "userName": "mlook."
+  },
+  "Hello": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIDbXBeBveGZaIT415WzNHjIs1ACo7wT6fVOy6hcCwoIIIlgg5VDc3kyKze2po-6q2IeGzgFVlh44aFKtN_nf6oE2TH8",
+        "credentialID": "XKnOTWyHP0q-weMCS0klB2zBi4gdh_FiVCNiJ0R_NlI",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "SGVsbG8",
+    "userName": "Hello"
+  }
+}
